@@ -1,12 +1,6 @@
-# giassi
-assignment to submit
 # Simple Interest Calculator
 
-This project is a simple interest calculator implemented using Bash.
-
-## About the Project
-
-The Simple Interest Calculator calculates simple interest based on the principal amount, rate of interest, and time period provided by the user.
+A simple Bash-based calculator that computes simple interest based on the principal amount, rate of interest, and time period.
 
 ## Formula
 
@@ -14,7 +8,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Input
 
-The calculator requires the following inputs:
+The calculator takes the following inputs:
 
 - Principal amount
 - Rate of interest
@@ -22,5 +16,8 @@ The calculator requires the following inputs:
 
 ## Output
 
-The program calculates and displays the simple interest based on the values entered by the user.
-Update README.md with simple interest calculator details
+The calculator displays the calculated simple interest.
+
+## Project File
+
+The Bash script for the calculator is available in `simple-interest.sh`.
