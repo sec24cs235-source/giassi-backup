@@ -1,5 +1,9 @@
 # Simple Interest Calculator
 
+## Project Name
+
+Simple Interest Calculator
+
 A simple Bash-based calculator that computes simple interest based on the principal amount, rate of interest, and time period.
 
 ## Formula
